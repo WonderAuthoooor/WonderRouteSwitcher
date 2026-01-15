@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmmUTos2WMl8TP0dIET2ivhHFtYXaiic625G6ZbVHyBly8uDOfwIIsR7FHHwkzHuQFU/tKPBVlU0JXUQjgVA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\WifiProxySwitcher.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nexus.xiamenair.com.cn/repository/nuget-group/”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

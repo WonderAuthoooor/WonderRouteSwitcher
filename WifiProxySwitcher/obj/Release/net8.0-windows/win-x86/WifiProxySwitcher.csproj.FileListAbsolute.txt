@@ -1,0 +1,16 @@
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\bin\Release\net8.0-windows\win-x86\WifiProxySwitcher.exe
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\bin\Release\net8.0-windows\win-x86\WifiProxySwitcher.deps.json
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\bin\Release\net8.0-windows\win-x86\WifiProxySwitcher.runtimeconfig.json
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\bin\Release\net8.0-windows\win-x86\WifiProxySwitcher.dll
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\bin\Release\net8.0-windows\win-x86\WifiProxySwitcher.pdb
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.MainForm.resources
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.csproj.GenerateResource.cache
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.AssemblyInfoInputs.cache
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.AssemblyInfo.cs
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.csproj.CoreCompileInputs.cache
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.dll
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\refint\WifiProxySwitcher.dll
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.pdb
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\WifiProxySwitcher.genruntimeconfig.cache
+C:\work\git\WifiProxySwitcher\WifiProxySwitcher\obj\Release\net8.0-windows\win-x86\ref\WifiProxySwitcher.dll

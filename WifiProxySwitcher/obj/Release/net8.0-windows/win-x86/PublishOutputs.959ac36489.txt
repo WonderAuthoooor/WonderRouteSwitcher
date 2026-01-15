@@ -1,0 +1,5 @@
+C:\temp\proxy\WifiProxySwitcher.exe
+C:\temp\proxy\WifiProxySwitcher.dll
+C:\temp\proxy\WifiProxySwitcher.deps.json
+C:\temp\proxy\WifiProxySwitcher.runtimeconfig.json
+C:\temp\proxy\WifiProxySwitcher.pdb

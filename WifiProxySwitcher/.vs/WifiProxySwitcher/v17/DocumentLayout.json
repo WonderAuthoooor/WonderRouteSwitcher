@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\wifimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\wifimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\proxysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\proxysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\globalhotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\globalhotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\stdoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\stdoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\hotkeyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\hotkeyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\pojo\\hotkeycapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:pojo\\hotkeycapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|c:\\work\\git\\wonderrouteswitcher\\wifiproxyswitcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E28784-E0AE-4635-97DA-529FCA55472A}|WifiProxySwitcher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 485,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAmwN0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T01:54:39.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAnwIgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T01:58:53.942Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalHotkey.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\GlobalHotkey.cs",
+              "RelativeDocumentMoniker": "pojo\\GlobalHotkey.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\GlobalHotkey.cs",
+              "RelativeToolTip": "pojo\\GlobalHotkey.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv1IAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T00:23:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T03:33:59.455Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProxySetting.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\ProxySetting.cs",
+              "RelativeDocumentMoniker": "pojo\\ProxySetting.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\ProxySetting.cs",
+              "RelativeToolTip": "pojo\\ProxySetting.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:43:38.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\AppConfig.cs",
+              "RelativeDocumentMoniker": "pojo\\AppConfig.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\AppConfig.cs",
+              "RelativeToolTip": "pojo\\AppConfig.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:02:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StdOutput.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\StdOutput.cs",
+              "RelativeDocumentMoniker": "pojo\\StdOutput.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\StdOutput.cs",
+              "RelativeToolTip": "pojo\\StdOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:09:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WifiManager.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\WifiManager.cs",
+              "RelativeDocumentMoniker": "pojo\\WifiManager.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\WifiManager.cs",
+              "RelativeToolTip": "pojo\\WifiManager.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwEYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:27:15.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotkeyParser.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\HotkeyParser.cs",
+              "RelativeDocumentMoniker": "pojo\\HotkeyParser.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\HotkeyParser.cs",
+              "RelativeToolTip": "pojo\\HotkeyParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T00:41:54.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotkeyCapture.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\HotkeyCapture.cs",
+              "RelativeDocumentMoniker": "pojo\\HotkeyCapture.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\pojo\\HotkeyCapture.cs",
+              "RelativeToolTip": "pojo\\HotkeyCapture.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:24:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T02:13:22.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

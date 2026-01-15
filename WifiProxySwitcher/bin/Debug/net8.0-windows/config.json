@@ -1,0 +1,16 @@
+[
+  {
+    "ShortcutKey": "Ctrl\u002BAlt\u002BF11",
+    "WifiName": "MF_Staff",
+    "EnableProxy": false,
+    "ProxyAddress": null,
+    "HotkeyId": 36242
+  },
+  {
+    "ShortcutKey": "Ctrl\u002BAlt\u002BF12",
+    "WifiName": "WonderPhone",
+    "EnableProxy": true,
+    "ProxyAddress": "172.17.56.230:10808",
+    "HotkeyId": 13530
+  }
+]
