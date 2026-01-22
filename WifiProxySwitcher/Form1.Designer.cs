@@ -33,15 +33,16 @@
             txtDebugOutput = new TextBox();
             label1 = new Label();
             configTable = new DataGridView();
+            notifyIcon1 = new NotifyIcon(components);
+            contextMenuStrip1 = new ContextMenuStrip(components);
+            exitToolStripMenuItem = new ToolStripMenuItem();
+            btnApply = new Button();
+            label2 = new Label();
             shortcut = new DataGridViewButtonColumn();
             WIFIName = new DataGridViewTextBoxColumn();
             isProxy = new DataGridViewCheckBoxColumn();
             proxyServer = new DataGridViewTextBoxColumn();
             btnApplyWifi = new DataGridViewButtonColumn();
-            btnApply = new Button();
-            notifyIcon1 = new NotifyIcon(components);
-            contextMenuStrip1 = new ContextMenuStrip(components);
-            exitToolStripMenuItem = new ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)configTable).BeginInit();
             contextMenuStrip1.SuspendLayout();
             SuspendLayout();
@@ -74,6 +75,48 @@
             configTable.TabIndex = 7;
             configTable.CellContentClick += ConfigTable_CellContentClick;
             // 
+            // notifyIcon1
+            // 
+            notifyIcon1.ContextMenuStrip = contextMenuStrip1;
+            notifyIcon1.Icon = (Icon)resources.GetObject("notifyIcon1.Icon");
+            notifyIcon1.Text = "notifyIcon1";
+            notifyIcon1.Visible = true;
+            notifyIcon1.MouseDoubleClick += notifyIcon1_MouseDoubleClick;
+            // 
+            // contextMenuStrip1
+            // 
+            contextMenuStrip1.Items.AddRange(new ToolStripItem[] { exitToolStripMenuItem });
+            contextMenuStrip1.Name = "contextMenuStrip1";
+            contextMenuStrip1.Size = new Size(97, 26);
+            // 
+            // exitToolStripMenuItem
+            // 
+            exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            exitToolStripMenuItem.Size = new Size(96, 22);
+            exitToolStripMenuItem.Text = "exit";
+            exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
+            // 
+            // btnApply
+            // 
+            btnApply.Location = new Point(38, 178);
+            btnApply.Name = "btnApply";
+            btnApply.Size = new Size(78, 36);
+            btnApply.TabIndex = 9;
+            btnApply.Text = "保存";
+            btnApply.UseVisualStyleBackColor = true;
+            btnApply.Click += button1_Click_1;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.ForeColor = Color.Red;
+            label2.Location = new Point(143, 188);
+            label2.Name = "label2";
+            label2.Size = new Size(140, 17);
+            label2.TabIndex = 11;
+            label2.Text = "每次修改配置都需要保存";
+            label2.Click += label2_Click;
+            // 
             // shortcut
             // 
             shortcut.HeaderText = "快捷键";
@@ -104,43 +147,15 @@
             btnApplyWifi.HeaderText = "应用";
             btnApplyWifi.Name = "btnApplyWifi";
             btnApplyWifi.Text = "生效";
-            // 
-            // btnApply
-            // 
-            btnApply.Location = new Point(38, 178);
-            btnApply.Name = "btnApply";
-            btnApply.Size = new Size(78, 36);
-            btnApply.TabIndex = 9;
-            btnApply.Text = "生效";
-            btnApply.UseVisualStyleBackColor = true;
-            btnApply.Click += button1_Click_1;
-            // 
-            // notifyIcon1
-            // 
-            notifyIcon1.ContextMenuStrip = contextMenuStrip1;
-            notifyIcon1.Icon = (Icon)resources.GetObject("notifyIcon1.Icon");
-            notifyIcon1.Text = "notifyIcon1";
-            notifyIcon1.Visible = true;
-            notifyIcon1.MouseDoubleClick += notifyIcon1_MouseDoubleClick;
-            // 
-            // contextMenuStrip1
-            // 
-            contextMenuStrip1.Items.AddRange(new ToolStripItem[] { exitToolStripMenuItem });
-            contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(97, 26);
-            // 
-            // exitToolStripMenuItem
-            // 
-            exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new Size(96, 22);
-            exitToolStripMenuItem.Text = "exit";
-            exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
+            btnApplyWifi.ToolTipText = "生效";
+            btnApplyWifi.UseColumnTextForButtonValue = true;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label2);
             Controls.Add(btnApply);
             Controls.Add(configTable);
             Controls.Add(label1);
@@ -163,10 +178,11 @@
         private TextBox txtDebugOutput;
         private Label label1;
         private DataGridView configTable;
-        private Button btnApply;
         private NotifyIcon notifyIcon1;
         private ContextMenuStrip contextMenuStrip1;
         private ToolStripMenuItem exitToolStripMenuItem;
+        private Button btnApply;
+        private Label label2;
         private DataGridViewButtonColumn shortcut;
         private DataGridViewTextBoxColumn WIFIName;
         private DataGridViewCheckBoxColumn isProxy;

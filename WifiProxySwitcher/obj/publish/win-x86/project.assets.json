@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\git\\WifiProxySwitcher\\WifiProxySwitcher\\WifiProxySwitcher.csproj",
+      "projectUniqueName": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\WifiProxySwitcher.csproj",
       "projectName": "WifiProxySwitcher",
-      "projectPath": "C:\\work\\git\\WifiProxySwitcher\\WifiProxySwitcher\\WifiProxySwitcher.csproj",
+      "projectPath": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\WifiProxySwitcher.csproj",
       "packagesPath": "C:\\Users\\91097\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\git\\WifiProxySwitcher\\WifiProxySwitcher\\obj\\publish\\win-x86\\",
+      "outputPath": "C:\\work\\git\\WonderRouteSwitcher\\WifiProxySwitcher\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91097\\AppData\\Roaming\\NuGet\\NuGet.Config",
